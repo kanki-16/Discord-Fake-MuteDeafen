@@ -1,4 +1,4 @@
-# Discord-Fake-MuteDeafen
+## Discord-Fake-MuteDeafen
 
 
 <p align='center'>
@@ -10,6 +10,13 @@
   * Add to BetterDiscord plugins folder.
 ```
 
-##  Plans:
-- [ ] Add buttons to mute / deafen seperately and not from the plugin being enabled.
-- [ ] Use BDApi
+## | How to use
+1 - join voice channel
+
+2 - mute and deafen yourself
+
+3 - start plugin and stop plugin
+
+4 - now you can Un-mute and Listen and speak!
+
+After you turned ON the plugin , you cant join any other voice channels , for this you have to Reload discord!
