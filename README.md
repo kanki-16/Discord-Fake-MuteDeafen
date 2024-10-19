@@ -20,3 +20,17 @@
 4 - now you can Un-mute and Listen and speak!
 
  > After you turned ON the plugin , you cant join any other voice channels , for this you have to Reload discord!
+
+
+## Last Update (WORKING)
+# 10/19/2024 3:00 PM 
+
+
+
+
+
+
+
+##  Credits:
+ > Discord : [sxwz](https://discord.com/users/1278478118218367099) <br>
+ > *I do not take full credit for creating the original code, I am simplying modifying it and allowing it to be easier to use.*
